@@ -1,0 +1,14 @@
+cffi==1.15.0
+einops==0.3.2
+h5py==3.1.0
+matplotlib==3.3.4
+numpy==1.19.5
+Pillow==9.2.0
+progressbar33==2.4
+scikit_image==0.17.2
+scipy==1.5.4
+setuptools==58.0.4
+tensorboardX==2.5.1
+torch==0.4.0
+torchvision==0.2.2
+tqdm==4.19.9

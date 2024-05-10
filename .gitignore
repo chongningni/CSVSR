@@ -1,0 +1,8 @@
+##ignore this file##
+.DS_Store
+res/
+checkpoint/
+*.out
+checkpoint/
+doc/
+model/
